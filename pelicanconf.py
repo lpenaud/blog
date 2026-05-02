@@ -4,6 +4,9 @@ SITEURL = ""
 
 PATH = "content"
 
+THEME = "themes/pelican-theme"
+CSS_FILE = "main.css"
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'fr'
