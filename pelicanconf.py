@@ -6,6 +6,7 @@ PATH = "content"
 
 THEME = "themes/pelican-theme"
 CSS_FILE = "main.css"
+JS_FILES = ("nav.js",)
 
 TIMEZONE = 'Europe/Paris'
 
