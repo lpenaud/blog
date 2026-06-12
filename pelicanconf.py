@@ -19,6 +19,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Nav menu
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_TAGS_ON_MENU = False
+
 # Blogroll
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
